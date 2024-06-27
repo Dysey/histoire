@@ -117,6 +117,10 @@ export interface HistoireConfig {
      */
     logoHref?: string
     /**
+     * Add target link to the main logo
+     */
+    logoTarget?: string
+    /**
      * Default color scheme for the app.
      */
     defaultColorScheme?: 'light' | 'dark' | 'auto'
