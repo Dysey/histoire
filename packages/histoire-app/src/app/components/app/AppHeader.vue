@@ -28,7 +28,7 @@ onKeyboardShortcut(['ctrl+shift+d', 'meta+shift+d'], (event) => {
     <div class="htw-py-3 sm:htw-py-4 htw-flex-1 htw-h-full htw-flex htw-items-center htw-pr-2">
       <a
         :href="histoireConfig.theme?.logoHref"
-        target="_blank"
+        :target="histoireConfig.theme?.logoHref ?? '_blank'"
         class="htw-w-full htw-h-full htw-flex htw-items-center"
       >
         <AppLogo
