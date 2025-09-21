@@ -30,7 +30,7 @@ See [Contributing Guide](https://github.com/Akryum/histoire/blob/main/CONTRIBUTI
 
 ## Sponsors
 
-Become a sponsor!
+Become a sponsor !
 
 - [Guillaume Chau](https://github.com/sponsors/Akryum)
 - [Hugo Attal](https://github.com/sponsors/hugoattal)
